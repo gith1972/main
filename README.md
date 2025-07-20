@@ -7,3 +7,4 @@ js is javascript
 shell is shell
 html is html
 any other qnssss
+wait wht
