@@ -6,3 +6,4 @@ py is #python ok
 js is javascript
 shell is shell
 html is html
+any other qnssss
